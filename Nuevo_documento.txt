@@ -1,6 +1,5 @@
 esto es otro documento
-<<<<<<< HEAD
+
 1- Añadiendo línea 1
-=======
 2-añadiendo línea 2
->>>>>>> branch2
+
